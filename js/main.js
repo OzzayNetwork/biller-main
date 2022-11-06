@@ -198,7 +198,7 @@ $(window).on('load', function() {
         $('#reportrange span').html(moment().format('MMMM D, YYYY'));
         // $('#today').html(moment().format('MMMM D, YYYY'));
         $('#date-reset').addClass('d-none');
-        alert("we chabged")
+        // alert("we chabged")
 
 
 
